@@ -1,5 +1,6 @@
 Plot.ly Homework - Belly Button Biodiversity
-Bacteria by filterforge.com
+
+![image](https://user-images.githubusercontent.com/74940147/114969402-4a840f00-9e46-11eb-8a40-76aeff53c16d.png)
 
 In this assignment, you will build an interactive dashboard to explore the Belly Button Biodiversity dataset, which catalogs the microbes that colonize human navels.
 
@@ -16,7 +17,7 @@ Use otu_ids as the labels for the bar chart.
 
 Use otu_labels as the hovertext for the chart.
 
-bar Chart
+![image](https://user-images.githubusercontent.com/74940147/114969423-54a60d80-9e46-11eb-9564-7d3832d495b8.png)
 
 Create a bubble chart that displays each sample.
 Use otu_ids for the x values.
@@ -29,7 +30,8 @@ Use otu_ids for the marker colors.
 
 Use otu_labels for the text values.
 
-Bubble Chart
+![image](https://user-images.githubusercontent.com/74940147/114969436-5b348500-9e46-11eb-8b42-778f1ed43639.png)
+
 
 Display the sample metadata, i.e., an individual's demographic information.
 
